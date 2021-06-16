@@ -1,0 +1,22 @@
+h1{
+  font-size: 60px;
+  text-align: center;
+  color: #ffff63
+}
+body{
+  font-size: 18px;
+  font-family: Helvetica, sans-serif;
+  color: #ebfeff;
+}
+body {
+  background-color: #242424;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+a {
+  color: #0000ff;
+}
